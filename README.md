@@ -1,2 +1,2 @@
 # IniciativaDevops
-Iniciando os estudos para transição de carreira para Devops
+Iniciando os estudos para transição de carreira para Devops.
